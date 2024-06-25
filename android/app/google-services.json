@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585228689479",
+    "project_id": "akilliotopark-ddfa7",
+    "storage_bucket": "akilliotopark-ddfa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585228689479:android:d50117b22373768c9c1162",
+        "android_client_info": {
+          "package_name": "com.example.uygulamaflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcQdSQDlf811jqJV7D6XnLhFrZes-x1F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
