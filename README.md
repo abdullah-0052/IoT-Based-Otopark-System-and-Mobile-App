@@ -1,4 +1,4 @@
-# uygulamaflutter
+![image](https://github.com/abdullah-0052/Smart-Otopark-SystemArduino-and-Mobile--App/assets/168473906/6fb9521f-5198-4e24-a5b3-49cf2ecf3c43)# uygulamaflutter
 
 A new Flutter project.
 
@@ -15,7 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Ekran görüntüsü 2024-06-25 180229](https://github.com/abdullah-0052/Smart-Otopark-SystemArduino-and-Mobile--App/assets/168473906/41b7a681-2996-4602-bfb5-536b1177628f)
+![Ekran görüntüsü 2024-06-29 023205](https://github.com/abdullah-0052/Smart-Otopark-SystemArduino-and-Mobile--App/assets/168473906/7a2bddf6-404c-48c4-b885-ca439af6d578)
+
 This project will make people's parking processes easier in big cities and crowded places.
 to make it easy and efficient. Smart Parking System provides suitable parking spaces for drivers.
 It saves time and reduces traffic congestion by helping them find it quickly.
