@@ -1,4 +1,4 @@
-![image](https://github.com/abdullah-0052/Smart-Otopark-SystemArduino-and-Mobile--App/assets/168473906/6fb9521f-5198-4e24-a5b3-49cf2ecf3c43)# uygulamaflutter
+# uygulamaflutter
 
 A new Flutter project.
 
