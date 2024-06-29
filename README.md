@@ -1,4 +1,4 @@
-# uygulamaflutter
+# Smart Otopark Sistem Mobile Uygulaması  ve Arduino Maketi
 
 A new Flutter project.
 
