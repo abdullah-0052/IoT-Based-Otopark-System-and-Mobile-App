@@ -4,7 +4,8 @@
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
-![Ekran görüntüsü 2024-06-29 121804](https://github.com/abdullah-0052/Smart-Otopark-SystemArduino-and-Mobile--App/assets/168473906/f75cec6f-0d47-43e5-88d4-d5f4896d518a)
+![Ekran görüntüsü 2024-06-29 023205](https://github.com/abdullah-0052/Smart-Otopark-SystemArduino-and-Mobile--App/assets/168473906/e767ba60-2f04-4de5-8643-de1d9ed83e81)
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
