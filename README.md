@@ -21,8 +21,12 @@ reduces. In addition, by encouraging the effective use of parking spaces, urban 
 Optimizes management. The mobile application developed for users allows parking spaces
 allows drivers to find parking more quickly and easily
 minimizes the time they spend.
+
+
 ![image](https://github.com/abdullah-0052/Smart-Otopark-SystemArduino-and-Mobile--App/assets/168473906/f7b65dcc-615d-43cb-8a1f-4ac460eaeadc)
+
 Uesd ​​Technologies.
+
 ![Ekran görüntüsü 2024-06-29 121830](https://github.com/abdullah-0052/Smart-Otopark-SystemArduino-and-Mobile--App/assets/168473906/5e879d2e-9cc9-482b-b0bb-f049bca75c8d)
 
 
