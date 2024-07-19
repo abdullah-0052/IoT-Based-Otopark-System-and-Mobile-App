@@ -12,7 +12,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Ekran görüntüsü 2024-06-29 023205](https://github.com/abdullah-0052/Smart-Otopark-SystemArduino-and-Mobile--App/assets/168473906/7a2bddf6-404c-48c4-b885-ca439af6d578)
+![image](https://github.com/user-attachments/assets/97e3f3b2-c59b-4a76-b0fe-8ad19668eceb)
+
 
 This project will make people's parking processes easier in big cities and crowded places.
 to make it easy and efficient. Smart Parking System provides suitable parking spaces for drivers.
