@@ -16,13 +16,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-This project will make people's parking processes easier in big cities and crowded places.
-to make it easy and efficient. Smart Parking System provides suitable parking spaces for drivers.
-It saves time and reduces traffic congestion by helping them find it quickly.
-reduces. In addition, by encouraging the effective use of parking spaces, urban parking areas
-Optimizes management. The mobile application developed for users allows parking spaces
-allows drivers to find parking more quickly and easily
-minimizes the time they spend.
+The IoT-based Smart Parking System aims to optimize and enhance parking processes in major cities and crowded areas. By assisting drivers in quickly locating suitable parking spaces, it saves time and reduces traffic congestion. Moreover, the system facilitates more efficient utilization of parking facilities, thereby optimizing urban management. An IoT-enabled mobile application developed specifically for users accelerates and simplifies the discovery of vacant parking spaces, minimizing search times. This initiative aims to address urban parking challenges and promote sustainable transportation systems. In this context, the IoT-based Smart Parking System is seen as a significant step towards improving daily life for drivers while enhancing urban traffic management and environmental sustainability. 
 
 
 ![image](https://github.com/abdullah-0052/Smart-Otopark-SystemArduino-and-Mobile--App/assets/168473906/f7b65dcc-615d-43cb-8a1f-4ac460eaeadc)
