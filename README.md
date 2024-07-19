@@ -12,7 +12,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![image](https://github.com/user-attachments/assets/97e3f3b2-c59b-4a76-b0fe-8ad19668eceb)
+![Adsız tasarım](https://github.com/user-attachments/assets/ac580dd3-af6c-48fa-b455-6dd59fe0c041)
+
 
 
 This project will make people's parking processes easier in big cities and crowded places.
